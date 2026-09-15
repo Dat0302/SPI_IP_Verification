@@ -1,0 +1,9 @@
+# Bỏ qua thư mục chạy mô phỏng
+sim/
+
+# Bỏ qua các file log và file dạng sóng
+*.vcd
+*.fsdb
+*.wlf
+transcript
+*.log
